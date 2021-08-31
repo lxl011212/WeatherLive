@@ -35,7 +35,7 @@ const App = () => {
                 </div>
             )}
             <button className="button">
-                <a href="https://github.com/lxl011212/WeatherLive" target="_blank">
+                <a href="https://github.com/lxl011212/WeatherLive" target="_blank" rel="noreferrer">
                     Source Code
                 </a>
             </button>
