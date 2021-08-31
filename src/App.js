@@ -34,6 +34,11 @@ const App = () => {
                     </div>
                 </div>
             )}
+            <button className="button">
+                <a href="https://github.com/lxl011212/WeatherLive" target="_blank">
+                    Source Code
+                </a>
+            </button>
         </div>
     );
 }

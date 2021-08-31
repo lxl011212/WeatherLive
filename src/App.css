@@ -82,6 +82,24 @@ p {
     align-items: center;
 }
 
+.button {
+    border: none;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    display: inline-block;
+    position: fixed;
+    border-radius: 8px;
+    bottom: 4px;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #f02b08;
+}
+
+a {
+    text-decoration: none;
+}
+
 @media only screen and (max-width: 600px) {
     .search {
         padding: 20px 15%;
